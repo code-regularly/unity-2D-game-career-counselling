@@ -1,6 +1,6 @@
 ## Career Counselling Game
 
-This project has been implemented in Unity 2D and C# gaming engine. It was the firt-ever, ever, exposure I had to Unity game development. 
+This project has been implemented in Unity 2D gaming engine and C# programming language. It was the firt-ever, ever, exposure I had to Unity game development. 
 
 ### Project Timeline
 
